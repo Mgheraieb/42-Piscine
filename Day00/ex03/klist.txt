@@ -1,0 +1,7 @@
+Credentials cache: API:82A5C5A4-D91D-4662-BC8B-471A1290814C
+        Principal: mgheraie@42.FR
+
+  Issued                Expires               Principal
+Aug 27 13:39:41 2018  Sep  3 13:39:41 2018  krbtgt/42.FR@42.FR
+Aug 27 13:39:44 2018  Sep  3 13:39:41 2018  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 13:39:44 2018  Sep  3 13:39:41 2018  HTTP/student-storage-1.42.fr@42.FR
